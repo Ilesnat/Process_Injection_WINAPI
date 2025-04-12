@@ -8,7 +8,7 @@ This CPP File is designed to perform process injection. Process injection involv
 ## Usage
 
 1. **Preparation**: 
-    - Obtain the `process_injector.cpp` file and compile it to a exe.
+    - Open this project in Visual Studio. 
     - Ensure that the target process (the process you want to inject into) is running.
     - Obtain the PID of the target process (I use Notepad)
     ```powershell
@@ -18,7 +18,7 @@ This CPP File is designed to perform process injection. Process injection involv
 
 2. **Running the Executable**:
     - Open a command prompt.
-    - Navigate to the directory where `ProcessInjection.exe` is located.
+    - Navigate to the directory where `Process_Injection_WINAPI.exe` is located after it has been built.
 
 3. **Basic Command Syntax**:
 
