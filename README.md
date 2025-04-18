@@ -8,7 +8,7 @@ This CPP File is designed to perform process injection. Process injection involv
 ## Usage
 
 1. **Preparation**: 
-    - Open this project in Visual Studio. 
+    - Open this sln file in Visual Studio and build the project. 
     - Ensure that the target process (the process you want to inject into) is running.
     - Obtain the PID of the target process (I use Notepad)
     ```powershell
@@ -28,9 +28,6 @@ This CPP File is designed to perform process injection. Process injection involv
 
     **Parameters**:
     - `<PID>`: The Process ID of the target process.
-
-4. **Example Usage**:
-
 
 5. **Monitoring and Logging**:
 
